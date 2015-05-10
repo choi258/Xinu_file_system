@@ -1,5 +1,5 @@
 # Xinu_file_system
-Modifying Xinu's flat system to hierarchical system
+Modified Xinu's flat file system to hierarchical file system
 
 Implemented 
 /device/lfs/lfsControl.c (Mkdir)
